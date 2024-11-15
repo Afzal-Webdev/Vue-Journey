@@ -1,0 +1,74 @@
+{
+  "jobs" : [
+    {
+        "id": 1,
+        "title": "Software Engineer",
+        "location": "New York, NY",
+        "salary": "$100,000",
+        "description": "We are looking for a software engineer to join our team."
+    },
+    {
+        "id": 2,
+        "title": "Product Manager",
+        "location": "San Francisco, CA",
+        "salary": "$120,000",
+        "description": "Seeking a product manager to oversee product development."
+    },
+    {
+        "id": 3,
+        "title": "Data Scientist",
+        "location": "Austin, TX",
+        "salary": "$110,000",
+        "description": "Join our team as a data scientist to analyze and interpret complex data."
+    },
+    {
+        "id": 4,
+        "title": "UX Designer",
+        "location": "Remote",
+        "salary": "$90,000",
+        "description": "Looking for a creative UX designer to enhance user experience."
+    },
+    {
+        "id": 5,
+        "title": "DevOps Engineer",
+        "location": "Seattle, WA",
+        "salary": "$115,000",
+        "description": "We need a DevOps engineer to streamline our development processes."
+    },
+    {
+        "id": 6,
+        "title": "Marketing Specialist",
+        "location": "Chicago, IL",
+        "salary": "$70,000",
+        "description": "Seeking a marketing specialist to develop and implement marketing strategies."
+    },
+    {
+        "id": 7,
+        "title": "Systems Analyst",
+        "location": "Boston, MA",
+        "salary": "$95,000",
+        "description": "Join our team as a systems analyst to improve IT systems."
+    },
+    {
+        "id": 8,
+        "title": "Web Developer",
+        "location": "Los Angeles, CA",
+        "salary": "$85,000",
+        "description": "We are looking for a web developer to build and maintain our websites."
+    },
+    {
+        "id": 9,
+        "title": "Network Administrator",
+        "location": "Miami, FL",
+        "salary": "$80,000",
+        "description": "Seeking a network administrator to manage our IT network."
+    },
+    {
+        "id": 10,
+        "title": "Business Analyst",
+        "location": "Denver, CO",
+        "salary": "$100,000",
+        "description": "Join us as a business analyst to help guide our business strategy."
+    }
+]
+}
