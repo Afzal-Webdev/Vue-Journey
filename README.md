@@ -35,15 +35,3 @@ Make sure you have the following installed:
    cd vue-job-listing-app
 
 
-   vue-job-listing-app/
-│
-├── src/
-│   ├── components/          # Reusable components
-│   ├── views/               # Application views
-│   ├── App.vue              # Main application component
-│   ├── main.js              # Entry point for the application
-│   └── router.js            # Vue Router configuration
-│
-├── db.json                  # Mock data for JSON server
-├── package.json              # Package configuration
-└── README.md                # Project documentation
